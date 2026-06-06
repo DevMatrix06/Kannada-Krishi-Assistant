@@ -1,0 +1,14 @@
+.claude/
+venv/
+NeMo/
+data/
+models/
+__pycache__/
+*.pyc
+*.pt
+*.zip
+output/
+crash_log.txt
+test_nemo_*.py
+test_numba.py
+test_crash_locate.py
